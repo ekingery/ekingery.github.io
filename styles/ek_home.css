@@ -1,0 +1,49 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Impact;
+	overflow: hidden;
+	text-align: center;
+}
+
+.bg {
+	width: 100%;
+	position: absolute;
+	opacity: .5;
+	top: 0;
+	left: 0;
+	z-index: 5000;
+}
+
+#top-bar {
+	color: black;
+	position: relative;
+	top: 100px;
+	width: 100%;
+	font-size: 140%;
+	z-index: 6000;
+	text-shadow: 3px 3px 1px white;
+	padding: 10px;
+	display: none;
+}
+
+#contact-info {
+	background-color: rgba(5, 5, 5, 0.8);
+	padding: 25px 0 25px 0;
+	position: relative;
+	top: 180px;
+	left: 0px;
+	width: 100%;
+	color: white;
+	z-index: 6000;
+}
+
+#contact-info li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 15px;
+}

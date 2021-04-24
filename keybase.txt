@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/ekingery
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ekingery.com
+  * I am ekingery (https://keybase.io/ekingery) on keybase.
+  * I have a public key with fingerprint EAF4 83E6 9A02 9F9E 89AA  97CD 92CA 296D 5C8C 4CD1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015d5b5f49645da00df345886f27e1b56c7039eb063f17d5bdcdc91c9f410a21510a",
+            "fingerprint": "eaf483e69a029f9e89aa97cd92ca296d5c8c4cd1",
+            "host": "keybase.io",
+            "key_id": "92ca296d5c8c4cd1",
+            "kid": "01015d5b5f49645da00df345886f27e1b56c7039eb063f17d5bdcdc91c9f410a21510a",
+            "uid": "97baffa8b645bb05ba82505e88d01619",
+            "username": "ekingery"
+        },
+        "service": {
+            "hostname": "ekingery.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1484070029,
+    "expire_in": 157680000,
+    "prev": "9d76a1702f0a4d159fd4f01f21cbc7c88e27b2cb3321d41c5fcecd261942e921",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSFRBGN5tc7HtCmX0sC8de+iiMnP2XNcsumlEF6J7Wsvcjh109+zl
+7OYW20NESRS0IVZEIBXZhfSh7IJUJqViBWpQSCUlESVRWUTQQzbH6iV6bB5mmH++
+7/u/72fuTfS4fO6j3XPCFYdW9rof3K1PujYn/Yd3C9iiaSG4W6hiowerpixhh6pM
+KgQFAAGUqYxlQ9IVSaYIAGoEJFnTFENUGcSyQlQQ0BkGSsCAKodSQokOiW5IECAR
+ynwXCgTDjFSyeDRuRmwuy5AhaQGm6AiIuqEzTUdIVwnVRYJEXaEy0YhEKOTEHVbC
+YXBzGCVYkWnxGr+ERu39A/+ffSd/9VExMgykYa6FMZAx0kQZyEzTKIAK1B1ggsUj
+KMycdFWjYdNCpkDg1ZRJmDNYJ8lfiCJihTk3Grdsi1jV/GWHbUeDDtFORx3kToZD
+vzVC2IxQzuOEFIsnTCsiBCFHEtt0RKGkSUAFfKAFAquJmnEWMh2ErCoa4Mtpw1JO
+GKoqCKpANACSKJR1g0oGgIYICSYq0TQmqlgkOBAQIZUgkQ3CCBV5TElkuugMOcFi
+EUsIStwmquSSCbMyguxknAmZ9raKsS63z+XNGeN8L5dv3JQ/ny7cmOu6lhzoP7Rt
+4o3ioSdF+e+0NefTgxuGt9yvvblx1kjuvNvZkr49jzzvF31+fOxLu719da1y6VHH
+ft/nTb1Xppcu6f8ifve6yk4OHO8+Jfn95cKah2u1nqH5PwYuXG/e1dgV9D+9ctkL
+J2/OqbmQRx4Oy/LxozPnZpraSrNHWp5/y77B+2LjS86XvZ37cuE5euJqzteGT4cL
+T18Mej6kzhTvXZyqy3v9wl5a2FV3Z6hz2aR166WerbNXRfUn3VMPNq7K+Ju8zXpq
+4YzYx8cLns0cPrGFlpFw/NbJ1tiE5d4DFdM6cq71565oKW9teO7uO10OPJ3ZwU/F
++WcnZTvOhes/jDS8Cvf8BNEtQg4=
+=xxMR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ekingery
+
+==================================================================
+
