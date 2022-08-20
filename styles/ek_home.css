@@ -11,15 +11,17 @@ body {
 }
 
 .bg {
-	width: 85%;
+  width: 100%;
 	position: absolute;
-	opacity: .9;
-	top: 300px;
+	opacity: .5;
+  top: 0;
 	left: 0;
 	z-index: 5000;
 }
 
 .circular--square { border-radius: 50%; }
+.rounded--corners { border-radius: 10px; }
+
 
 #top-bar {
 	color: black;
@@ -34,10 +36,10 @@ body {
 }
 
 #contact-info {
-	background-color: rgba(5, 5, 5, 0.6);
+	background-color: rgba(5, 5, 5, 0.7);
 	padding: 25px 0 25px 0;
 	position: relative;
-	top: 200px;
+	top: 100px;
 	left: 0px;
 	width: 100%;
 	color: white;
